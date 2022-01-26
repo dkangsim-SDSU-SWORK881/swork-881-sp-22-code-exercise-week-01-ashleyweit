@@ -1,12 +1,13 @@
 #### SWORK 881 GitHub exercise ####
-# NAME: 
-# REDID:
+# NAME: Ashley Weitenstiener
+# REDID: 822110413
 
 #install tidyverse packages
-install.packages()
+install.packages("tidyverse", dependencies = TRUE)
 
 #load tidyverse
-library()
+
+library(tidyverse)
 
 # read data in (the data file is LHS_exercise.csv inside the data folder)
 data01<- read_csv("")
